@@ -27,7 +27,7 @@ Ao final, o programa exibe uma mensagem de agradecimento ao usuário.
 
 (if_elif_else.py)
 # ARQUIVO: for_while.py - Estruturas de Repetição
-## Contador de Números Pares (FOR e WHILE)
+## 🧩 Contador de Números Pares (FOR e WHILE)
 
 Este programa exibe apenas os números pares entre 1 e 100, utilizando duas estruturas de repetição:
 
@@ -39,12 +39,52 @@ Para identificar se o número é par, o programa verifica se o resultado da divi
 
 Ambas as estruturas geram o mesmo resultado final, apenas com maneiras diferentes de repetir o código.
 
-- Como executar o programa
+▶️ Como executar o programa
 
 Salve o arquivo com o nome contador_pares.py
 
- Execute no terminal ou CMD com o comando:python contador_pares.py (for_while.py)
+Execute no terminal ou CMD com o comando:
 
+python contador_pares.py
+
+🖨️ Resultado esperado
+
+O programa vai imprimir apenas números pares:
+
+2
+4
+6
+8
+...
+98
+100
+ # ARQUIVO: lista.py - Lista
+ ## Cadastro de Alunos com Listas em Python
+
+Este programa permite cadastrar nomes de alunos em uma lista utilizando um loop while.
+O usuário pode adicionar quantos nomes quiser e, quando desejar encerrar o cadastro, basta digitar "sair".
+
+🔹 Como funciona o programa:
+
+O programa começa com uma lista vazia chamada alunos.
+
+Cada nome digitado é adicionado à lista.
+
+Quando o usuário digita "sair", o loop é interrompido.
+
+No final, todos os alunos cadastrados são exibidos na tela.
+
+🧠 Recursos utilizados:
+
+Listas
+
+Laço de repetição while
+
+Condicional if
+
+Método .append()
+
+Função input()
  # ARQUIVO: dicionários.py - Dicionários
  ## Sistema de Cadastro de Produtos com Dicionário
 
