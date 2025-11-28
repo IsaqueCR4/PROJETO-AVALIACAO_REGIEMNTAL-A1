@@ -7,7 +7,7 @@ Projeto de fundamentos em pytons  — Avaliação A1
 
 Este programa realiza a verificação da idade informada pelo usuário para determinar se a entrada em um evento é permitida ou não.
 
-##  Como funciona o programa
+  - Como funciona o programa
 
 O sistema solicita que o usuário digite a idade e, com base no valor informado, utiliza **estruturas condicionais (if/elif/else)** para decidir o tipo de acesso ao evento:
 
@@ -18,7 +18,7 @@ O sistema solicita que o usuário digite a idade e, com base no valor informado,
 
 Ao final, o programa exibe uma mensagem de agradecimento ao usuário.
 
-##  Como executar
+   - Como executar
 
 1. Certifique-se de ter o **Python 3.x** instalado no seu computador.
 2. Salve o código em um arquivo com o nome:  
@@ -39,7 +39,7 @@ Para identificar se o número é par, o programa verifica se o resultado da divi
 
 Ambas as estruturas geram o mesmo resultado final, apenas com maneiras diferentes de repetir o código.
 
-▶️ Como executar o programa
+- Como executar o programa
 
 Salve o arquivo com o nome contador_pares.py
 
